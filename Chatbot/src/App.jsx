@@ -1,3 +1,4 @@
+//Built it while learning React.
 
 import './App.css'
 import zishan from './assets/zishan.png'
